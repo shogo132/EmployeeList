@@ -6,6 +6,6 @@ It was created in React.js (Material-UI).
 
 ・The sample data is taken from a json file.
 
-![EmployeeList](https://github.com/EharaShogo/react-pages-EmployeeInfo/blob/master/EmployeeList.png)
+![EmployeeList](https://github.com/shogo132/EmployeeList/blob/main/EmployeeList.png)
 
 Open in the CodeSandbox → https://026ks.csb.app/
